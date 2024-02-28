@@ -2,12 +2,11 @@
 PCNubbies POSTMAN API TESTING NOTES (GROUP I-Tech)     ||
 =========================================================
 
-Table for Authorization
 For gender answers: (0-1)
 [0 = male,
 1 = female]
 
-For age range answers: (answer only from 1-5)
+For age range answers: (1-5)
 [1 = 18-24,
 2 = 25-34,
 3 = 35-45,
