@@ -22,11 +22,11 @@ http://127.0.0.1:8000/api/register
 
 Params: (below are the needed fields to register)
 
-name = 
-email = 
-gender = (refer to the table above)
-age range = (refer to the table above)
-password =
+name,
+email, 
+gender, (refer to the table above)
+age_range, (refer to the table above)
+password
 
 
 Login (POST):
@@ -34,8 +34,8 @@ http://127.0.0.1:8000/api/login
 
 Params:
 
-email = 
-password =
+email,
+password
 
 (Get the access token, go to authorization, choose bearer token, put the token on the right side)
 
