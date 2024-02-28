@@ -22,11 +22,11 @@ http://127.0.0.1:8000/api/register
 
 Params: (below are the needed fields to register)
 
-name,
+(name,
 email, 
-gender, (refer to the table above)
-age_range, (refer to the table above)
-password
+gender,
+age_range,
+password)
 
 
 Login (POST):
@@ -63,6 +63,5 @@ Add to Cart a certain product (POST)
 http://127.0.0.1:8000/api/cart/{product_id}
 
 Params:
-quantity = (number you want)
-
+(quantity)
 
