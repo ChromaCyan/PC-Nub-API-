@@ -34,8 +34,8 @@ http://127.0.0.1:8000/api/login
 
 Params:
 
-email,
-password
+(email,
+password)
 
 (Get the access token, go to authorization, choose bearer token, put the token on the right side)
 
